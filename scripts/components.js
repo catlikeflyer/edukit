@@ -5,7 +5,7 @@ const cursos = [
     level: "Primaria",
     subj: "Matemáticas",
     img: "dog1.jpg",
-    link: "https://www.youtube.com/watch?v=hyvxHU2RibY",
+    link: "./pages/content/test.html",
   },
   {
     title: "Comprensión Lectora",
