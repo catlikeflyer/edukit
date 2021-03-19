@@ -8,6 +8,14 @@ const cursos = [
     link: "./pages/content/test.html",
   },
   {
+    title: "¿Qué pasa en México?",
+    desc: "Reflexiona sobre la situación de los feminicidios en México de manera interactiva.",
+    level: "Todos",
+    subj: "Bienestar",
+    img: "dog1.jpg",
+    link: "https://dhnam.me/Stolen-Voices",
+  },
+  {
     title: "Comprensión Lectora",
     desc: "Aprende a comprender la lectura mediante una divertida historia.",
     level: "Primaria",
