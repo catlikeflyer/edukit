@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80");
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: "Ubuntu", sans-serif;
+}
+
+nav-link {
+  color: white;
+}
+
+#logo {
+  width: 25%;
+}
+
+.header {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.my-card {
+  height: auto;
+  padding: 0;
+  background-color: aliceblue;
+  border-radius: 5px;
+}
+
+.my-card-container {
+  padding: 2vh;
+  height: auto;
+  display: none;
+}
+
+.show {
+  display: block;
+}
+.my-card-container:hover {
+  filter: brightness(0.7);
+}
+
+.level {
+  background-color: grey;
+  border-radius: 15px;
+  text-align: center;
+  width: max-content;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.thumbnail {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.thumbnail-container {
+  max-height: 50%;
+}
+
+.card-text {
+  padding: 1vw;
+  text-decoration: none;
+  color: white;
+}
+
+.links {
+  text-decoration: none;
+}
+
+.Matemáticas {
+  background-color: rgb(255, 59, 118);
+}
+
+.Bienestar {
+  background-color: rgb(0, 204, 78);
+}
+
+.Computación {
+  background-color: rgb(80, 106, 255);
+}
+
+.Literatura {
+  background-color: rgb(212, 198, 0);
+}
+
+.Geografía {
+  background-color: rgb(255, 159, 70);
+}
+
+.Inglés {
+  background-color: rgb(255, 97, 221);
+}
+
+.btn {
+  color: aliceblue;
+  background-color: rgba(100, 148, 237, 0.726);
+  border-radius: 25px;
+  margin: 2px;
+}
+
+.btn:hover {
+  background-color: rgba(240, 248, 255, 0.733);
+}
+
+.btn .active {
+  background-color: cornflowerblue;
+}
+
+.par-1 {
+  font-size: 18px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.imgi {
+  width: 100%;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 10px;
+}
+
+.img-i {
+  width: 100%;
+  filter: brightness(1.2);
+}
+
+.data-row {
+  padding-bottom: 5vh;
+}
+
