@@ -27,6 +27,7 @@ nav-link {
   padding: 0;
   background-color: aliceblue;
   border-radius: 5px;
+  box-shadow: inset;
 }
 
 .my-card-container {
@@ -83,7 +84,7 @@ nav-link {
 }
 
 .Literatura {
-  background-color: rgb(212, 198, 0);
+  background-color: rgb(255, 230, 0);
 }
 
 .Geografía {
